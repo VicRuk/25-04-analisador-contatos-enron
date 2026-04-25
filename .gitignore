@@ -1,0 +1,13 @@
+# Ignorar a pasta de dados do Enron
+Amostra Enron/
+Amostra Enron.zip
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de ambiente virtual (se você usar)
+venv/
+.venv/
